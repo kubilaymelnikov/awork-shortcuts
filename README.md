@@ -7,7 +7,12 @@ Please click the link below to download the shortcut.
 ## Awork toggle timetracking 1.0
 A simple toggle for time tracking.
 
-- [German Version](https://www.icloud.com/shortcuts/8852e2e12704436f80548177407655d6)
+- [German Version](https://www.icloud.com/shortcuts/bdb4504ec27141869ac8e5c57c478c92)
+
+## Awork toggle tracking with last time V1.0
+Utilizes the last recorded time as a reference to start time tracking for the same task.
+
+- [German Version](https://www.icloud.com/shortcuts/de8cb0768a7b44b186f05dba5aa81e63)
 
 ## Prerequisites
 To use this shortcut, you need to fulfill certain prerequisites. Make sure you have the following:
