@@ -12,7 +12,7 @@ A simple toggle for time tracking.
 ## Awork toggle tracking with last time V1.0
 Utilizes the last recorded time as a reference to start time tracking for the same task.
 
-- [German Version](https://www.icloud.com/shortcuts/de8cb0768a7b44b186f05dba5aa81e63)
+- [German Version](https://www.icloud.com/shortcuts/619a566e11624379a9ce82182ca1fb1e)
 
 ## Prerequisites
 To use this shortcut, you need to fulfill certain prerequisites. Make sure you have the following:
